@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+img {
+  width: 200px;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

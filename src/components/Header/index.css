@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+
+.ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.list-con {
+  display: flex;
+  justify-content: space-evenly;
+  width: 20%;
+}
+
+.img-wave {
+  width: 100px;
+}
+
+.under {
+  text-decoration: none;
+}
